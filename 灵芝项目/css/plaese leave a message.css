@@ -1,0 +1,140 @@
+.banner {
+	 display: block;
+	 width: 1142px;
+	 height: 820px;
+	 background: #f5f5f5;
+	 
+}
+.bnt1 {
+	float: left;
+	width: 106px;
+	height: 36px;
+	background: #cc00db;
+	margin-top: 40px;
+	margin-left: 324px;
+}
+.banner1 {
+    float: left;
+    width: 490px;
+    height: 614px;
+    margin-left: 324px;
+    background: #ffffff;
+    padding-left: 50px;
+    padding-top: 62px;
+}
+.banner1 p {
+	display: block;
+	margin-top: 22px;
+	color: #515151;
+	font-size: 12px;
+	font-weight: bold;
+	/*margin-left: 50px;*/
+}
+.p1 {
+	width: 198px;
+	height: 32px;
+	background: #ebebeb;
+}
+.banner1 p select {
+	width: 84px;
+	height: 32px;
+	color: #c3c3c3;
+	font-size: 14px;
+	background: #ebebeb;
+}
+.p2 {
+	display: block;
+	width: 400px;
+	height: 100px;
+	margin-bottom: 40px;
+}
+.p4 {
+	float: left;
+	width: 62px;
+	height: 100px;
+}
+.p3 {
+	float: left;
+	width: 330px;
+	height: 100px;
+	margin-top: 20px;
+	overflow:hidden; 
+	resize:none;
+	background: #ebebeb;
+}
+.p5 {
+	vertical-align: middle;
+	font-size: 12px;
+	margin-left: 6px;
+}
+.p6 {
+	float: left;
+	width: 76px;
+	height: 32px;
+	background: #ebebeb;
+}
+.p7 {
+	float: left;
+	width: 36px;
+	height: 32px;
+	background: #afa9a9;
+	margin-left: 8px;
+}
+.p8 {
+	display: block;
+	width: 386px;
+	height: 182px;
+	margin-left: 94px;
+	margin-top: 32px;
+	/*background: red;*/
+	/*margin-bottom: 40px;*/
+}
+.p8 b {
+	font-size: 12px;
+	float: left;
+	width: 62px;
+	padding-top: 8px;
+	height: 18px;
+}
+ .p9 {
+	float: left;
+	width: 116px;
+	margin-top: 8px;
+	margin-left: 8px;
+	height: 18px;
+	color: #0027b7;
+	font-size: 14px;
+	border-bottom: 1px #a3abdc solid;
+	font-weight: bold;
+
+}
+
+.p10 {
+	float: right;
+	margin-top: 92px;
+	width: 85px;
+	height: 33px;
+	font-size: 22px;
+	background: #6f0079;
+	color: #feffff;
+}
+ .p11 {
+	float: right;
+	width: 58px;
+	margin-top: 142px;
+	margin-right: -70px;
+	height: 18px;
+	color: #0027b7;
+	font-size: 14px;
+	border-bottom: 1px #a3abdc solid;
+	font-weight: bold;
+
+}
+.banner2 {
+	float: left;
+	width: 540px;
+	height: 66px;
+	margin-left: 324px;
+	background: url(../image/foot.png)-110px -81px no-repeat;
+}
+

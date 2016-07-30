@@ -1,0 +1,48 @@
+.banner {
+	display: block;
+	width: 1142px;
+	height: 666px;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.banner-l {
+	width: 561px;
+	height: 114px;
+	margin-top: 16px;
+	background: #ffffff;
+}
+.banner-l img {
+	margin-top: 20px;
+}
+.banner-l span {
+	float: right;
+	width: 400px;
+	height: 84px;
+	margin-top: 20px;
+}
+.banner-l span h4 {
+   float: left;
+   width: 120px;
+   height: 18px;
+   font-size: 18px;
+   font-weight: bold;
+   color: #898989;
+}
+.banner-l span p {
+	float: left;
+	width: 399px;
+	height: 55px;
+	font-size: 12px;
+    line-height: 20px;
+    color: #898989;
+}
+.banner-l span p b {
+	display: block;
+	width: 297px;
+	height: 16px;
+	margin-left: 80px;
+}

@@ -1,0 +1,27 @@
+.banner {
+	display: block;
+	width: 1142px;
+	height: 644px;
+}
+.banner1 {
+	float: left;
+	width: 216px;
+	height: 232px;
+	margin-top: 32px;
+	margin-right: 6px;
+	margin-left: 6px;
+	background: #ffffff;
+}
+.banner1-a {
+	display: block;
+	width: 212px;
+	height: 40px;
+	border-top:2px black solid;
+}
+.banner1-a p {
+	text-align: center;
+	font-size: 14px;
+	color: #505050;
+	font-weight: bold;
+	margin-top: 8px;
+}

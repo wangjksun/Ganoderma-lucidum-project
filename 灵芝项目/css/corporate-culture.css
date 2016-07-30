@@ -1,0 +1,77 @@
+.banner {
+	display: block;
+	width: 1142px;
+	height: 890px;
+	background: #ffffff;
+	/*border: 1px red solid;*/
+}
+
+.banner-1 {
+	display: block;
+	width: 1142px;
+	margin-top: 18px;
+	margin-left: 18px;
+}
+.banner-1 img {
+	float: left;
+	width: 35px;
+	height: 822px;
+}
+.p1 {
+	float: left;
+	width: 1020px;
+	height: 82px;
+	margin-top: 18px;
+	margin-left: 22px;
+	font-size: 12px;
+	line-height: 20px;
+	font-weight: bold;
+	color: #3b3b3b;
+}
+.p2 {
+	float: left;
+	width: 1020px;
+	height: 58px;
+	margin-top: 18px;
+	margin-left: 22px;
+	font-size: 12px;
+	line-height: 20px;
+	font-weight: bold;
+	color: #3b3b3b;
+}
+.p3 {
+	float: left;
+	width: 1020px;
+	height: 58361px;
+	margin-top: 18px;
+	margin-left: 22px;
+	font-size: 12px;
+	line-height: 20px;
+	font-weight: bold;
+	color: #3b3b3b;
+}
+.but1 {
+	float: left;
+	width: 74px;
+	height: 36px;
+	border: 1px #8ec7ce solid;
+	color: #8ec7ce;
+	font-weight: bold;
+}
+.but2 {
+	float: left;
+	width: 74px;
+	height: 36px;
+	border: 1px #f7c33c solid;
+	color: #f7c33c;
+	font-weight: bold;
+}
+.but3 {
+	float: left;
+	width: 74px;
+	height: 36px;
+	border: 1px #ef6c5a solid;
+	color: #ef6c5a;
+	margin-top: 60px;
+	font-weight: bold;
+}
